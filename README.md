@@ -1,8 +1,8 @@
-# simulation-of-memory-mangment
+# simulation-of-memory-managment
 written by Assma zurba
 
 in general:
-A simulation of memory manging in the computer.
+A simulation of memory managing in the computer.
 
 the program contains a class that called sim_mem, the fields of the class are:
     int swapfile_fd: swap file fd.
